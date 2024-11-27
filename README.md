@@ -7,7 +7,7 @@ As a motivated professional, I am eager to tackle new challenges and make a sign
 - 😄 Pronouns: He/Him
 
 ## Find me around the web 🌎:
-- Connect with me on <a href="https://www.linkedin.com/in/razeen-muhajireen/">LinkedIn</a> 💼
+- Connect with me on <a href="https://www.linkedin.com/in/razeen-m/">LinkedIn</a> 💼
 - Connect with me on <a href="https://www.kaggle.com/razeenm">Kaggle</a> 💼
 
 <!--
