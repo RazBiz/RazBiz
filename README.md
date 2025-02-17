@@ -3,7 +3,8 @@ I'm a result-oriented IT professional.
 As a motivated professional, I am eager to tackle new challenges and make a significant impact by leveraging my skills, education, and positive attitude to contribute to the success of any project or organization.
 
 - 🔭 I’m currently working on IoT device management software to optimize performance and improve scalability. 
-- 🌱 I’m currently enrolled in a Post Baccalaureate Diploma in Technical Management and Services from Kwantlen Polytechnic University, BC, Canada.
+- 🌱 I completed Post Baccalaureate Diploma in Technical Management and Services from Kwantlen Polytechnic University, BC, Canada with a GPA of 4.12/4.33.
+- 🌱 I completed Bachelor of Engineering (Electronics) from Sheffield Hallam University, UK with a GPA of 4.0/4.0.
 - 😄 Pronouns: He/Him
 
 ## Find me around the web 🌎:
